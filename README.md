@@ -6,4 +6,7 @@ To run the GUI
 python3 tkinteropen.py
 
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/djdhar/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription/blob/master/sample12.jpg)
+
+![alt text](https://github.com/djdhar/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription/blob/master/guguyg.png)
+
