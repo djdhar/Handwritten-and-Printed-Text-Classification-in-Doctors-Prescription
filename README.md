@@ -3,6 +3,30 @@ Localization of Handwritten and Printed Text in doctors' prescription. It consis
 
 To run the GUI
 
+First install the utilities:
+
+sudo add-apt-repository main
+
+sudo apt-get install python3.6
+
+pip install Pillow
+
+pip install opencv-python
+
+pip install numpy
+
+pip install pandas
+
+pip install sklearn
+
+pip install joblib
+
+pip install pickle-mixin
+
+pip install pdbpp
+
+Then run the script
+
 python3 tkinteropen.py
 
 keep the data.joblib in the same directory with the tkinteropen.py
