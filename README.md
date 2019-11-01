@@ -4,6 +4,7 @@ Localization of Handwritten and Printed Text in doctors' prescription. It consis
 To run the GUI
 
 python3 tkinteropen.py
+
 keep the data.joblib in the same directory with the tkinteropen.py
 
 Here is an example.
