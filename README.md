@@ -61,7 +61,7 @@ INPUT IMAGE:
 
 GUI SNAPSHOT
 
-![alt text](https://github.com/djdhar/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription/blob/master/dj.png)
+![alt text](https://github.com/djdhar/Handwritten-and-Printed-Text-Classification-in-Doctors-Prescription/blob/master/dj_.png)
 
 OUTPUT IMAGE:
 
