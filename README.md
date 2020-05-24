@@ -8,30 +8,39 @@ First install the utilities:
 <code>
 $ sudo add-apt-repository main
 </code>
+<br>
 <code>
 $ sudo apt-get install python3.6
 </code>
+<br>
 <code>
 $ pip install Pillow
 </code>
+<br>
 <code>
 $ pip install opencv-python
 </code>
+<br>
 <code>
 $ pip install numpy
 </code>
+<br>
 <code>
 $ pip install pandas
 </code>
+<br>
 <code>
 $ pip install sklearn
 </code>
+<br>
 <code>
 $ pip install joblib
 </code>
+<br>
 <code>
 $ pip install pickle-mixin
 </code>
+<br>
 <code>
 $ pip install pdbpp
 </code>
