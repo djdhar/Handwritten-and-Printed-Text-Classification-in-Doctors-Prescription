@@ -5,31 +5,44 @@ To run the GUI
 
 First install the utilities:
 
-sudo add-apt-repository main
-
-sudo apt-get install python3.6
-
-pip install Pillow
-
-pip install opencv-python
-
-pip install numpy
-
-pip install pandas
-
-pip install sklearn
-
-pip install joblib
-
-pip install pickle-mixin
-
-pip install pdbpp
+<code>
+$ sudo add-apt-repository main
+</code>
+<code>
+$ sudo apt-get install python3.6
+</code>
+<code>
+$ pip install Pillow
+</code>
+<code>
+$ pip install opencv-python
+</code>
+<code>
+$ pip install numpy
+</code>
+<code>
+$ pip install pandas
+</code>
+<code>
+$ pip install sklearn
+</code>
+<code>
+$ pip install joblib
+</code>
+<code>
+$ pip install pickle-mixin
+</code>
+<code>
+$ pip install pdbpp
+</code>
 
 Then run the script
 
-python3 tkinteropen.py
-
-keep the data.joblib in the same directory with the tkinteropen.py
+<code>
+$ python3 tkinteropen.py
+</code>
+<br>
+Keep the data.joblib in the same directory with the tkinteropen.py
 
 Here is an example.
 
