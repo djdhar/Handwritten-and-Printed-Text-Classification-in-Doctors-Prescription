@@ -14,27 +14,15 @@ $ sudo apt-get install python3.6
 </code>
 <br>
 <code>
-$ pip install Pillow
+$ sudo apt-get install python3-tk
 </code>
 <br>
 <code>
-$ pip install opencv-python
+$ sudo apt-get install python3-pil python3-pil.imagetk
 </code>
 <br>
 <code>
-$ pip install numpy
-</code>
-<br>
-<code>
-$ pip install pandas
-</code>
-<br>
-<code>
-$ pip install sklearn
-</code>
-<br>
-<code>
-$ pip install joblib
+$ pip install -r requirements.txt
 </code>
 <br>
 <code>
